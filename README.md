@@ -1,4 +1,7 @@
 #Mi primer titulo
 
-Un texto de ejemplo para el README.md
+Un texto de ejemplo para el README.md 
 
+## Nueva funcionalidad 
+
+esta funcionalidad
